@@ -45,7 +45,8 @@ counter-project/
    │   │   ├── LinkedIN_white.png  # LinkedIn logo
    │   │   └── Github_white.png   # GitHub logo
    ├── css/         
-   │   └── styles.css           # Stylesheet for the layout and design
+   │    ├── styles.css
+    │   └── background-style.css          # Stylesheet for the layout and design
    └── js/             
        └── script.js            # JavaScript file containing all the logic
 ```
@@ -68,16 +69,12 @@ counter-project/
 - Learned how to manage **CSS transitions** and **animations** to make interactive elements more engaging.
 - Refined my skills in **event handling** and **dynamic content updates** based on user input.
 
-## Challenge on Start to Impact
-
-[Start to Impact - Counter and Presentation Card](https://www.starttoimpact.com/challenge)  <!-- Replace with your challenge link if available -->
-
 ## License
 
 This project is licensed under the **MIT License** – feel free to modify and reuse it.
 
 ## Author
 
-- **GitHub**: [YourUsername](https://github.com/YourUsername)  
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname/)  
-- **Website**: [Your Portfolio](https://your-portfolio.com)
+- **GitHub**: [Skelman016](https://github.com/Skelman016)  
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/marioromagnoli016/)  
+- **Website**: [My Portfolio](https://your-portfolio.com)
