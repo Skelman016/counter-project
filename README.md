@@ -4,7 +4,7 @@
 ![Project Preview](./asset/img/preview-counter.png) <!-- Replace with your project screenshot -->
 
 ## 🔗 Live Demo
-[Demo](https://your-link.com) <!-- Replace with your live demo link if available -->
+[Demo](https://skelman016.github.io/counter-project/) <!-- Replace with your live demo link if available -->
 
 ## Description
 
@@ -55,7 +55,7 @@ counter-project/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YourUsername/counter-project.git
+   git clone https://github.com/Skelman016/counter-project.git
    ```
 2. **Open the `index.html` file in your browser**  
 3. *(Optional)* If using a live server, start it with:  
