@@ -1,10 +1,10 @@
 
 # Start to Impact - Counter and Presentation Card
 
-![Project Preview](./asset/img/preview-counter.png) <!-- Replace with your project screenshot -->
+![Project Preview](./asset/img/preview-counter.png) 
 
 ## 🔗 Live Demo
-[Demo](https://skelman016.github.io/counter-project/) <!-- Replace with your live demo link if available -->
+[Demo](https://skelman016.github.io/counter-project/) 
 
 ## Description
 
