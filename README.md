@@ -1,5 +1,5 @@
 
-# Start to Impact - Counter and Presentation Card
+# Start2Impact - Counter and Presentation Card
 
 ![Project Preview](./asset/img/preview-counter.png) 
 
